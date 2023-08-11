@@ -1,0 +1,23 @@
+.main {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    background-color: #000;
+}
+
+.warning {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 20px;
+    color: #f00;
+    font-size: 35px;
+}
+
+.warning__text {
+    font-size: 25px;
+    color: #fff;
+}
